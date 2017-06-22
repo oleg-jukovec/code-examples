@@ -1,0 +1,69 @@
+<?xml version = "1.0"?>
+<cards>
+        <card name="card1">
+                <health>20</health>
+                <melee>5</melee>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name="card2">
+                <health>21</health>
+                <melee>6</melee>
+                <range>6</range>
+                <magic>6</magic>
+        </card>
+        <card name="card3">
+                <health>22</health>
+                <melee>7</melee>
+                <range>7</range>
+                <magic>7</magic>
+        </card>
+        <card name="card4">
+                <health>23</health>
+                <melee>8</melee>
+                <range>8</range>
+                <magic>8</magic>
+        </card>
+        <card name="card5">
+                <health>24</health>
+                <melee>9</melee>
+                <range>9</range>
+                <magic>9</magic>
+        </card>
+        <card name="card6">
+                <health>25</health>
+                <melee>10</melee>
+                <range>10</range>
+                <magic>10</magic>
+        </card>
+        <card name="card7">
+                <health>26</health>
+                <melee>11</melee>
+                <range>11</range>
+                <magic>11</magic>
+        </card>
+        <card name="card8">
+                <health>27</health>
+                <melee>12</melee>
+                <range>12</range>
+                <magic>12</magic>
+        </card>
+        <card name="card9">
+                <health>28</health>
+                <melee>13</melee>
+                <range>13</range>
+                <magic>13</magic>
+        </card>
+        <card name="card10">
+                <health>29</health>
+                <melee>14</melee>
+                <range>14</range>
+                <magic>14</magic>
+        </card>
+        <card name="card11">
+                <health>30</health>
+                <melee>15</melee>
+                <range>15</range>
+                <magic>15</magic>
+        </card>
+</cards>

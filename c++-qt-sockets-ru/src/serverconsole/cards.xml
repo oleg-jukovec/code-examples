@@ -1,0 +1,69 @@
+<?xml version = "1.0"?>
+<cards>
+        <card name = "card1">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card2">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card3">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card4">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card5">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card6">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card7">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card8">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card9">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card10">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+        <card name = "card11">
+                <health>20</health>
+                <melee>5</close>
+                <range>5</range>
+                <magic>5</magic>
+        </card>
+</cards>
