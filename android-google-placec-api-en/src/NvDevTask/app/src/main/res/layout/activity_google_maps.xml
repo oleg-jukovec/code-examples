@@ -1,0 +1,20 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ru.ozi_blog.nv_dev.MainMapsActivity">
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fab"
+        android:src="@drawable/ic_add_24dp"
+        android:layout_gravity="bottom|right"
+        android:onClick="submit"
+        android:layout_margin="@dimen/fab_margin"
+        map:backgroundTint="@color/colorPrimary">
+    </android.support.design.widget.FloatingActionButton>
+</fragment>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NV Dev Задание</string>
+    <string name="collage_activity_share_title">Поделиться коллажем используя</string>
+    <string name="collage_type_submenu_title">Тип коллажа</string>
+    <string name="dialog_can_not_find_location_message">Этому приложению требуются работающий сервис определения местоположения. Пожалуйста, включите его.</string>
+    <string name="dialog_can_not_find_location_title">Невозможно определить текущее местоположение!</string>
+    <string name="dialog_can_not_make_message">Возможно нет соединения с сетью или радиус поиска фотографий слишком мал?</string>
+    <string name="dialog_can_not_make_title">Невозможно создать коллаж.</string>
+    <string name="dialog_ok_button">Понятно</string>
+    <string name="horizontal_collage">Горизонтальный</string>
+    <string name="vertical_collage">Вертикальный</string>
+    <string name="rectangle_collage">Прямоугольный</string>
+    <string name="marker_current_position">Текущее местоположение</string>
+    <string name="progress_dialog_making_collage">Создание коллажа…</string>
+    <string name="progress_dialog_searching_location">Поиск текущего местоположения…</string>
+    <string name="search_radius_large">10км</string>
+    <string name="search_radius_largest">100км</string>
+    <string name="search_radius_least">100м</string>
+    <string name="search_radius_little">1км</string>
+    <string name="search_submenu_title">Радиус поиска фотографий</string>
+    <string name="title_activity_collage">Коллаж</string>
+    <string name="title_activity_main_maps">NV Dev Задание</string>
+</resources>

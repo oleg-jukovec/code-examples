@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_provider" translatable="false">ru.ozi-blog.nv_dev.ImageProvider</string>
+    <string name="collage_cache_file" translatable="false">collage_tmp.png</string>
+</resources>

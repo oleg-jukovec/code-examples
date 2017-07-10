@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        private static final String RADIUS_STATE = "mRadius";
+    private static final String RADIUS_ID_STATE = "mRadiusItemId";
+    private static final String COLLAGE_TYPE_ID_STATE = "mCollageItemId";
+    private static final String COLLAGE_TYPE_STATE = "mCollageType";
+    private static final String LOCATION_LATITUDE_STATE = "mLocation.latitude";
+    private static final String LOCATION_LONGITUDE_STATE = "mLocation.longitude";
+    -->
+    <string name="main_save_radius_state" translatable="false">radius</string>
+    <string name="main_save_radius_id_state" translatable="false">radius_id</string>
+    <string name="main_save_collage_type_state" translatable="false">collage_type</string>
+    <string name="main_save_collage_type_id_state" translatable="false">collage_type_id</string>
+    <string name="main_save_latitude_state" translatable="false">latitude</string>
+    <string name="main_save_longitude_state" translatable="false">longitude</string>
+</resources>

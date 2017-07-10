@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NV Dev Task</string>
+    <string name="title_activity_main_maps">NV Dev Task</string>
+    <string name="title_activity_collage">Collage</string>
+
+    <string name="marker_current_position">Current position</string>
+
+    <string name="progress_dialog_searching_location">Searching device location…</string>
+    <string name="progress_dialog_making_collage">Making collage…</string>
+
+    <string name="dialog_ok_button">OK</string>
+
+    <string name="dialog_can_not_find_location_title">Can not find device location!</string>
+    <string name="dialog_can_not_find_location_message">This app needs the Location service, please turn on it.</string>
+
+    <string name="dialog_can_not_make_title">Can not create collage.</string>
+    <string name="dialog_can_not_make_message">Maybe there are no internet connection or search radius too small?</string>
+
+    <string name="collage_activity_share_title">Share Collage Using</string>
+
+</resources>

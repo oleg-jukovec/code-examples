@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_submenu_title">Photos search radius</string>
+    <string name="search_radius_least">100m</string>
+    <string name="search_radius_little">1km</string>
+    <string name="search_radius_large">10km</string>
+    <string name="search_radius_largest">100km</string>
+    <string name="collage_type_submenu_title">Collage type</string>
+    <string name="horizontal_collage">Horizontal</string>
+    <string name="vertical_collage">Vertical</string>
+    <string name="rectangle_collage">Rectangle</string>
+</resources>

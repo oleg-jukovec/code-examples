@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/radius_submenu"
+        android:title="@string/search_submenu_title">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/radius_least"
+                    android:titleCondensed="@string/search_radius_least"
+                    android:title="@string/search_radius_least">
+                </item>
+                <item android:id="@+id/radius_little"
+                    android:titleCondensed="@string/search_radius_little"
+                    android:title="@string/search_radius_little"
+                    android:checked="true">
+                </item>
+                <item android:id="@+id/radius_large"
+                    android:titleCondensed="@string/search_radius_large"
+                    android:title="@string/search_radius_large">
+                </item>
+                <item android:id="@+id/radius_largest"
+                    android:titleCondensed="@string/search_radius_largest"
+                    android:title="@string/search_radius_largest">
+                </item>
+        </group>
+        </menu>
+    </item>
+    <item android:id="@+id/collage_type"
+          android:title="@string/collage_type_submenu_title">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/vertical"
+                    android:titleCondensed="@string/vertical_collage"
+                    android:title="@string/vertical_collage"
+                    android:checked="true">
+                </item>
+                <item android:id="@+id/horizontal"
+                    android:titleCondensed="@string/horizontal_collage"
+                    android:title="@string/horizontal_collage">
+                </item>
+                <item android:id="@+id/rectangle"
+                    android:titleCondensed="@string/rectangle_collage"
+                    android:title="@string/rectangle_collage">
+                </item>
+            </group>
+        </menu>
+    </item>
+</menu>
